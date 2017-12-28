@@ -112,17 +112,17 @@ nav.shrink {
     max-width: 1000px;
     width: 80%;
     margin: 0 auto;
-    padding: 100px 0;
+    padding: 150px 0;
 }
 
 .learning-info-wrapper h4 {
     padding-top: 30px;
-    line-height: 1.3em;
+    line-height: 1.5em;
 }
 
 /* -------blog-share------- */
 .blog-share {
-    padding: 100px 0;
+    padding: 50px 0 100px 0;
     background: #dee5ef;
 }
 
